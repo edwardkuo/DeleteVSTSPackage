@@ -1,2 +1,2 @@
 # DeleteVSTSPackage
-Please read this document : http://edwardkuo.imas.tw/paper/2017/02/08/Devops/DeletePackageVSTS/
+Please read this document : https://edwardkuo.azurewebsites.net/paper/2017/02/08/Devops/DeletePackageVSTS/
